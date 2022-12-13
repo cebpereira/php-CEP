@@ -2,7 +2,7 @@
 
 require_once "vendor/autoload.php";
 
-use carlos\phpCep\Search;
+use cebpereira\phpCep\Search;
 
 $busca = new Search;
 

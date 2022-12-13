@@ -1,6 +1,6 @@
 <?php
 
-namespace carlos\phpCep;
+namespace cebpereira\phpCep;
 
 class Search{
     private $url = "https://viacep.com.br/ws/";
